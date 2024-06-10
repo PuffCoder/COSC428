@@ -1,3 +1,9 @@
 config/model.weights
 *.weights
 *.DS_Stroe
+*.mp4
+*.MOV
+*.csv
+*.cache
+*.jpg
+*.pt
